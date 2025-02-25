@@ -4,7 +4,7 @@
 Billions of dollars in unsold fashion inventory, leading to waste and revenue loss.
 
 ## Solution
-AI-driven insights for optimized pricing, brand perception, and customer-centric strategies.
+AI-driven insights for optimized pricing, brand perception, and customer-centric strategies. It performs automated scrapping of data from multiple e-commerce sites such as myantra , amazon and pulls data and leverages AI agents to such as Price Premium Agent , Social Media Analyser Agent , Price Perception Agents etc to give best price and analytics as solution offering to brands. This process earlier took dayas and teams efforts which is now reduced to minutes.
 
 ![Decalist Banner](1.png)
 ![Decalist Banner](2.png)
